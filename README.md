@@ -20,4 +20,4 @@ Users choose the 3D model that they want to know its correct place in the comput
 
 * For image targets of the application try to clone AR EduVision bookLast.pdf
 
-* If you like to have a look to documentation just clone AR EduVision full documentation 12-8-2018 last.pdf
+* If you like to have a look to the documentation just clone AR EduVision full documentation 12-8-2018 last.pdf
