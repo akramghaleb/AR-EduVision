@@ -12,9 +12,12 @@ Users scan hardware 2D pictures by their smart phone cameras from the applicatio
 
 Users choose the 3D model that they want to know its correct place in the computer from the menu, and then they can drag the model and drop it into its place in computer hierarchy. AR EduVision application will help them to find the correct place of the 3D model in computer hierarchy by lighting the correct place of the 3D model
 
-# Usage
+# Usage:
 
-*Download the application from here [AR EduVision.apk](https://drive.google.com/open?id=1O2f5nxkZGiyZk2eW3xiXhwIQ0JMsVToS)
-*See how to use this application from here [AR Eduvision Final Project](https://youtu.be/CHoC6A2z_P4)
-*For image targets of the application try to clone AR EduVision bookLast.pdf
-*If you like to have a look to documentation just clone AR EduVision full documentation 12-8-2018 last.pdf
+* Download the application from here [AR EduVision.apk](https://drive.google.com/open?id=1O2f5nxkZGiyZk2eW3xiXhwIQ0JMsVToS)
+
+* See how to use this application from here [AR Eduvision Final Project](https://youtu.be/CHoC6A2z_P4)
+
+* For image targets of the application try to clone AR EduVision bookLast.pdf
+
+* If you like to have a look to documentation just clone AR EduVision full documentation 12-8-2018 last.pdf
