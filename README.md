@@ -2,6 +2,8 @@
 
 AR EduVision is an android application that views an interactive information and 3D models by using AR environment, which helps students to understand computer hardware easily.
 
+[ER EduVision](img/ER Eduvision.jpg)
+
 The application  has  two  parts,  one  for  scanning  and the other  for  maintenance.
 
 ##  1 - Scanning
